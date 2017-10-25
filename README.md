@@ -1,2 +1,2 @@
 # git_rensyu
-git_rensyu
+練習用
